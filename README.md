@@ -1,2 +1,2 @@
 # JavaAdvanced
-softuni exercises
+softuni course 
